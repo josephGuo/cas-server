@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/matthewvalimaki/cas-server/storage"
-	"github.com/matthewvalimaki/cas-server/tools"
-	"github.com/matthewvalimaki/cas-server/types"
+	"github.com/josephGuo/cas-server/storage"
+	"github.com/josephGuo/cas-server/tools"
+	"github.com/josephGuo/cas-server/types"
 )
 
 const letterBytes = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"

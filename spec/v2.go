@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/matthewvalimaki/cas-server/security"
-	"github.com/matthewvalimaki/cas-server/spec/xml"
-	"github.com/matthewvalimaki/cas-server/types"
-	"github.com/matthewvalimaki/cas-server/validators"
+	"github.com/josephGuo/cas-server/security"
+	"github.com/josephGuo/cas-server/spec/xml"
+	"github.com/josephGuo/cas-server/types"
+	"github.com/josephGuo/cas-server/validators"
 )
 
 // HandleValidateV2 handles `/serviceValidate` request

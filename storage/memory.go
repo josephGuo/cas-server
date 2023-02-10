@@ -3,7 +3,7 @@ package storage
 import (
 	"time"
 
-	"github.com/matthewvalimaki/cas-server/types"
+	"github.com/josephGuo/cas-server/types"
 )
 
 // MemoryStorage is memory based Storage

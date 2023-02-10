@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/matthewvalimaki/cas-server/types"
+	"github.com/josephGuo/cas-server/types"
 )
 
 // IStorage interface for all Storages
